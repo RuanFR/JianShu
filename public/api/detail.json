@@ -1,0 +1,7 @@
+{
+    "success":true,
+    "data":{
+        "title":"简书一年，我找到了一份好工作",
+        "content":"<img src='https://rfr1234567890-1258757821.cos.ap-shanghai.myqcloud.com/testImg/%E9%85%8B%E9%95%BF%E5%B2%A9.jpg' /><p>如果未命中,浏览器会发送到服务器，请求时携带（Last- Modified / If - Modified - Since和Etag / If - None - Match），由服务器根据请求中的相关header信息来比对结果是否协商缓存命中</p><p>如果未命中，浏览器会发送到服务器，请求时携带（Last-Modified/If-Modified-Since和Etag/If-None-Match），由服务器根据请求中的相关header信息来比对结果是否协商缓存命中</p>"
+    }
+}
